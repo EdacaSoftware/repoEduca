@@ -8,6 +8,7 @@ using System.Data.OleDb;
 
 public class conexion
 {
+    //hola soy un cambio
     //string con el motor que se utilizara
     string motor = "";
     mysql bdmysql = new mysql();
